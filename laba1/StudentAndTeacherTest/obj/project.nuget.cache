@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rM9CIPY2Gk=",
+  "success": true,
+  "projectFilePath": "/home/vadim/Projects/Cs/TemplateLabs/laba1/StudentAndTeacherTest/StudentAndTeacherTest.csproj",
+  "expectedPackageFiles": [
+    "/home/vadim/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

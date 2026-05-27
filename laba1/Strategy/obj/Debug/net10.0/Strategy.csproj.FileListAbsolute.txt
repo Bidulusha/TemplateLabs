@@ -1,0 +1,14 @@
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/bin/Debug/net10.0/Strategy
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/bin/Debug/net10.0/Strategy.deps.json
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/bin/Debug/net10.0/Strategy.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/bin/Debug/net10.0/Strategy.dll
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/bin/Debug/net10.0/Strategy.pdb
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/Strategy.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/Strategy.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/Strategy.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/Strategy.dll
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/refint/Strategy.dll
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/Strategy.pdb
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/Strategy.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/laba1/Strategy/obj/Debug/net10.0/ref/Strategy.dll

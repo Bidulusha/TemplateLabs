@@ -1,0 +1,14 @@
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/bin/Debug/net10.0/StudentAndTeacherTest
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/bin/Debug/net10.0/StudentAndTeacherTest.deps.json
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/bin/Debug/net10.0/StudentAndTeacherTest.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/bin/Debug/net10.0/StudentAndTeacherTest.dll
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/bin/Debug/net10.0/StudentAndTeacherTest.pdb
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/StudentAndTeacherTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/StudentAndTeacherTest.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/StudentAndTeacherTest.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/StudentAndTeacherTest.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/StudentAndTeacherTest.dll
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/refint/StudentAndTeacherTest.dll
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/StudentAndTeacherTest.pdb
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/StudentAndTeacherTest.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/laba1/StudentAndTeacherTest/obj/Debug/net10.0/ref/StudentAndTeacherTest.dll
