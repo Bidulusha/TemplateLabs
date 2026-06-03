@@ -1,107 +1,60 @@
-﻿using System;
-
-public interface IWeapon
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+public interface IFactory
 {
-    string Item();
+    void Drive(int kilometers);
 }
 
-public interface IAmor
+public class Scooter : IFactory
 {
-    string Item();
-}
-
-public class Sword : IWeapon
-{
-    public string Item()
+    public void Drive(int kilometers)
     {
-        return "Sword";
+        //TODO
     }
 }
 
-public class Wand : IWeapon
+public class Bike : IFactory
 {
-    public string Item()
+    public void Drive(int kilometers)
     {
-        return "Wand";
+        //TODO
     }
 }
 
-public class BodyArmor : IAmor
+public abstract class VehicleFactory
 {
-    public string Item()
-    {
-        return "Steel Body Armor";
-    }
+    public abstract IFactory GetVehicle(string Vehicle);
 }
 
-public class Cloak : IAmor
+public class ConcreteVehicleFactory : VehicleFactory
 {
-    public string Item()
+    public override IFactory GetVehicle(string Vehicle)
     {
-        return "Cloak";
-    }
-}
-
-public interface IEnemyFactory
-{
-    IWeapon GetWeapon();
-    IAmor GetAmor();
-}
-
-public class Warrior : IEnemyFactory
-{
-    public IWeapon GetWeapon()
-    {
-        return new Sword();
-    }
-
-    public IAmor GetAmor()
-    {
-        return new BodyArmor();
-    }
-}
-
-public class Mage : IEnemyFactory
-{
-    public IWeapon GetWeapon()
-    {
-        return new Wand();
-    }
-
-    public IAmor GetAmor()
-    {
-        return new Cloak();
-    }
-}
-
-class Client
-{
-    IEnemyFactory factory = null;
-
-    public void SpawnEnemy(string enemy)
-    {
-        switch (enemy)
+        switch (Vehicle)
         {
-            case "Warrior":
-                factory = new Warrior();
-                Console.WriteLine(factory.GetWeapon().Item());
-                Console.WriteLine(factory.GetAmor().Item());
-                break;
-            case "Mage":
-                factory = new Mage();
-                Console.WriteLine(factory.GetWeapon().Item());
-                Console.WriteLine(factory.GetAmor().Item());
-                break;
+            case "Scooter":
+                return new Scooter();
+            case "Bike":
+                return new Bike();
             default:
-                Console.WriteLine("Wrong Type");
-                break;
+                throw new ApplicationException(string.Format("Vehicle {0} cannot be created", Vehicle));
         }
-    }
 
-    static void Main(string[] args)
+    }
+}
+
+public class BasicCalculatorSwitch
+{
+    public static void Main(string[] args)
     {
-        Client client = new Client();
-        client.SpawnEnemy("Mage");
-        client.SpawnEnemy("Warrior");
+        VehicleFactory factory = new ConcreteVehicleFactory();
+        IFactory scooter = factory.GetVehicle("Scooter");
+        scooter.Drive(10);
+
+        IFactory bike = factory.GetVehicle("Bike");
+        bike.Drive(20);
     }
 }
