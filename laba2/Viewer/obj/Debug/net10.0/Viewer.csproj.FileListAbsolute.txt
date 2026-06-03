@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/bin/Debug/net10.0/Viewer
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/bin/Debug/net10.0/Viewer.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/bin/Debug/net10.0/Viewer.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/bin/Debug/net10.0/Viewer.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/bin/Debug/net10.0/Viewer.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/refint/Viewer.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/Viewer.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Viewer/obj/Debug/net10.0/ref/Viewer.dll

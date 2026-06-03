@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/bin/Debug/net10.0/PersonList
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/bin/Debug/net10.0/PersonList.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/bin/Debug/net10.0/PersonList.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/bin/Debug/net10.0/PersonList.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/bin/Debug/net10.0/PersonList.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/refint/PersonList.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/PersonList.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/PersonList/obj/Debug/net10.0/ref/PersonList.dll

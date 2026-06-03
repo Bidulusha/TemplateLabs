@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/bin/Debug/net10.0/ObserverPattern
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/bin/Debug/net10.0/ObserverPattern.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/bin/Debug/net10.0/ObserverPattern.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/bin/Debug/net10.0/ObserverPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/bin/Debug/net10.0/ObserverPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/refint/ObserverPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ObserverPattern.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/ObserverPattern/obj/Debug/net10.0/ref/ObserverPattern.dll

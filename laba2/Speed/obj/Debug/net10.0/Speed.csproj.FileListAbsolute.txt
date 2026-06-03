@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/bin/Debug/net10.0/Speed
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/bin/Debug/net10.0/Speed.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/bin/Debug/net10.0/Speed.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/bin/Debug/net10.0/Speed.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/bin/Debug/net10.0/Speed.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/refint/Speed.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/Speed.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba2/Speed/obj/Debug/net10.0/ref/Speed.dll
