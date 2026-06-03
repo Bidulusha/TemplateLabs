@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vadim/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj": {}
+    "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj": {}
   },
   "projects": {
-    "/home/vadim/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj": {
+    "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vadim/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj",
+        "projectUniqueName": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj",
         "projectName": "Strategy",
-        "projectPath": "/home/vadim/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj",
+        "projectPath": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/Strategy/Strategy.csproj",
         "packagesPath": "/home/vadim/.nuget/packages/",
-        "outputPath": "/home/vadim/Projects/Cs/TemplateLabs/laba1/Strategy/obj/",
+        "outputPath": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/Strategy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vadim/.nuget/NuGet/NuGet.Config"

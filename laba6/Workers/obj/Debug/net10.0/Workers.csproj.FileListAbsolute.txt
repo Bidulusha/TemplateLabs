@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/bin/Debug/net10.0/Workers
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/bin/Debug/net10.0/Workers.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/bin/Debug/net10.0/Workers.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/bin/Debug/net10.0/Workers.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/bin/Debug/net10.0/Workers.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/refint/Workers.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/Workers.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/Workers/obj/Debug/net10.0/ref/Workers.dll

@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/bin/Debug/net10.0/Hero
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/bin/Debug/net10.0/Hero.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/bin/Debug/net10.0/Hero.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/bin/Debug/net10.0/Hero.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/bin/Debug/net10.0/Hero.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/refint/Hero.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/Hero.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba7/Hero/obj/Debug/net10.0/ref/Hero.dll

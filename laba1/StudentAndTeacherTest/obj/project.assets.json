@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vadim/Projects/Cs/TemplateLabs/laba1/StudentAndTeacherTest/StudentAndTeacherTest.csproj",
+      "projectUniqueName": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/StudentAndTeacherTest/StudentAndTeacherTest.csproj",
       "projectName": "StudentAndTeacherTest",
-      "projectPath": "/home/vadim/Projects/Cs/TemplateLabs/laba1/StudentAndTeacherTest/StudentAndTeacherTest.csproj",
+      "projectPath": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/StudentAndTeacherTest/StudentAndTeacherTest.csproj",
       "packagesPath": "/home/vadim/.nuget/packages/",
-      "outputPath": "/home/vadim/Projects/Cs/TemplateLabs/laba1/StudentAndTeacherTest/obj/",
+      "outputPath": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/StudentAndTeacherTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vadim/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3U53xUZKxQ=",
+  "success": true,
+  "projectFilePath": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/CompPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/vadim/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

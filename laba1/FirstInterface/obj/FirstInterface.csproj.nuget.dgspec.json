@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vadim/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj": {}
+    "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj": {}
   },
   "projects": {
-    "/home/vadim/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj": {
+    "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vadim/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj",
+        "projectUniqueName": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj",
         "projectName": "FirstInterface",
-        "projectPath": "/home/vadim/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj",
+        "projectPath": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/FirstInterface/FirstInterface.csproj",
         "packagesPath": "/home/vadim/.nuget/packages/",
-        "outputPath": "/home/vadim/Projects/Cs/TemplateLabs/laba1/FirstInterface/obj/",
+        "outputPath": "/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba1/FirstInterface/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vadim/.nuget/NuGet/NuGet.Config"

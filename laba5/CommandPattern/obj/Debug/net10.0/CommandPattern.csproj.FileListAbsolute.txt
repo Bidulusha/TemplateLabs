@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/bin/Debug/net10.0/CommandPattern
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/bin/Debug/net10.0/CommandPattern.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/bin/Debug/net10.0/CommandPattern.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/bin/Debug/net10.0/CommandPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/bin/Debug/net10.0/CommandPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/refint/CommandPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/CommandPattern.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/CommandPattern/obj/Debug/net10.0/ref/CommandPattern.dll

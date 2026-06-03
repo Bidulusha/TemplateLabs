@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/bin/Debug/net10.0/FasadPattern
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/bin/Debug/net10.0/FasadPattern.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/bin/Debug/net10.0/FasadPattern.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/bin/Debug/net10.0/FasadPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/bin/Debug/net10.0/FasadPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/refint/FasadPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/FasadPattern.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/FasadPattern/obj/Debug/net10.0/ref/FasadPattern.dll

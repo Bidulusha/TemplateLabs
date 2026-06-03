@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/bin/Debug/net10.0/StringSort
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/bin/Debug/net10.0/StringSort.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/bin/Debug/net10.0/StringSort.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/bin/Debug/net10.0/StringSort.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/bin/Debug/net10.0/StringSort.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/refint/StringSort.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/StringSort.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/StringSort/obj/Debug/net10.0/ref/StringSort.dll

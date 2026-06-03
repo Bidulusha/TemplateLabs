@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/bin/Debug/net10.0/Filter
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/bin/Debug/net10.0/Filter.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/bin/Debug/net10.0/Filter.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/bin/Debug/net10.0/Filter.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/bin/Debug/net10.0/Filter.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/refint/Filter.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/Filter.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Filter/obj/Debug/net10.0/ref/Filter.dll

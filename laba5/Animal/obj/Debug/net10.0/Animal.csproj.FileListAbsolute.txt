@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/bin/Debug/net10.0/Animal
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/bin/Debug/net10.0/Animal.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/bin/Debug/net10.0/Animal.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/bin/Debug/net10.0/Animal.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/bin/Debug/net10.0/Animal.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/refint/Animal.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/Animal.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba5/Animal/obj/Debug/net10.0/ref/Animal.dll

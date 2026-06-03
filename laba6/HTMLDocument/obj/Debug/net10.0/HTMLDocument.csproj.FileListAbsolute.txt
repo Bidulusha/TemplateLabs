@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/bin/Debug/net10.0/HTMLDocument
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/bin/Debug/net10.0/HTMLDocument.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/bin/Debug/net10.0/HTMLDocument.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/bin/Debug/net10.0/HTMLDocument.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/bin/Debug/net10.0/HTMLDocument.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/refint/HTMLDocument.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/HTMLDocument.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/HTMLDocument/obj/Debug/net10.0/ref/HTMLDocument.dll

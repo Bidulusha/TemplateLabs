@@ -1,0 +1,15 @@
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/bin/Debug/net10.0/CompPattern
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/bin/Debug/net10.0/CompPattern.deps.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/bin/Debug/net10.0/CompPattern.runtimeconfig.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/bin/Debug/net10.0/CompPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/bin/Debug/net10.0/CompPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.AssemblyInfoInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.AssemblyInfo.cs
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.csproj.CoreCompileInputs.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.sourcelink.json
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/refint/CompPattern.dll
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.pdb
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/CompPattern.genruntimeconfig.cache
+/home/Volumes/disk2T/Projects/Cs/TemplateLabs/laba6/CompPattern/obj/Debug/net10.0/ref/CompPattern.dll
